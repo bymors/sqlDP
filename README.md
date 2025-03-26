@@ -23,6 +23,6 @@ https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssm
 Администратор - 1 , Начальник ОТК - 2 и Работник ОТК - 3
 
 ## Логины и пароли  
-admin / admin123
-nchlOTK / nchlOTK123
-rbtOTK / rbtOTK123  
+- admin / admin123
+- nchlOTK / nchlOTK123
+- rbtOTK / rbtOTK123  
